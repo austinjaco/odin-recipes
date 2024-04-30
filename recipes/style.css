@@ -1,0 +1,15 @@
+body {
+    color: rgb(162, 111, 40);
+    background-color: rgb(245, 231, 192);
+    font-family: "tahoma", "arial", sans-serif;
+}
+
+.heading{
+    color: rgb(243, 171, 77);
+    font-family: "copperplate", "impact", sans-serif;
+}
+
+h1.heading {
+    font-size: 75px;
+    text-align: center
+}
