@@ -6,12 +6,50 @@ body {
 
 #heading {
     color: rgb(243, 171, 77);
+    margin: 0 auto;
     text-align: center;
     font-size: 75px;
+    padding: 10px;
     font-family: "copperplate", "impact", sans-serif;
 }
 
 ul {
-    font-size: 40px;
-    font-weight: bold;
+    list-style-type: none;
+    padding: 0;
 }
+
+li {
+    margin: 10px auto;
+    padding: 40px 0;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    font-family: "copperplate", "impact", sans-serif;
+    border-radius: 12px;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    box-sizing: border-box;
+}
+
+
+a {
+    color: white;
+}
+
+
+#rbcm {
+    background-color: #223971;
+}
+#rbcm:hover {background-color: #CB2026;}
+
+
+#duck {
+    background-color: rgb(218, 149, 28);
+}
+#duck:hover {background-color: green;}
+
+#dp {
+    background-color: #890024;
+}
+#dp:hover {background-color: #C5023C;}
